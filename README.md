@@ -1,4 +1,4 @@
-# Selector-Quiz-1 - A Quiz to Help You Learn About Basic CSS Selectors
+# Selector-Quiz-1 - A Quiz to Solidify Basic Selector Knowledge
 
 This repo contains an HTML file where every element has been given a numbered, unique ```id``` attribute. For the selectors below, list the ```id```s of the elements (or "none") which would be selected in that HTML file. Each question is a selector, and each answer should be a list of the element ```id```s to which the styles would be applied.
 
